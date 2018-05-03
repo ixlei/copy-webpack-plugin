@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.5.2"></a>
+## [4.5.2](https://github.com/webpack-contrib/copy-webpack-plugin/compare/5.0.0...4.5.2) (2018-05-03)
+
+
+
 <a name="4.5.1"></a>
 ## [4.5.1](https://github.com/webpack-contrib/copy-webpack-plugin/compare/v4.5.0...v4.5.1) (2018-03-09)
 
