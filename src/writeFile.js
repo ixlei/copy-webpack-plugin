@@ -112,7 +112,7 @@ export default function writeFile(globalRef, pattern, file) {
                             return content;
                         },
                         hash: hash,
-                        key: path.relative(context, file.absoluteFrom)
+                        key: path.relative(context, file.absoluteFrom).replace('\\', '/')
                     };
                 });
         });
